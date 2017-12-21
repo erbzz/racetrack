@@ -11,6 +11,7 @@ The starting point is the blue dot (upper right) and the finish line is the red 
 
 ********************************************************************************
 In order to run this on your machine, make sure you have python3.6 or higher. Simply copy all of the files onto your device, navigate to the racetrack repository and do:
-    * python3 runtrack.py
+   
+   python3 runtrack.py
 
 This will open up a tdraw/turtle graphic that will display the racetrack, and the program.

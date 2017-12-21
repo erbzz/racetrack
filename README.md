@@ -4,7 +4,7 @@ This is a python script that uses tensorflow to train a neural network in order 
 
 The program generates a racetrack like so:
 
-<img src="https://github.com/erbzz/racetrack/blob/master/imgs/ex1_start.png" width="287"> <img src="https://github.com/erbzz/racetrack/blob/master/imgs/ex1_step.png" width="287"> <img src="https://github.com/erbzz/racetrack/blob/master/imgs/ex1_end.png" width="287">
+<img src="https://github.com/erbzz/racetrack/blob/master/imgs/ex2_full.gif" width="480">
 
 The starting point is the blue dot (upper right) and the finish line is the red line (bottom left). All the black bolded lines are walls or hazards that the program must avoid. If the program intersects any of those lines, it is considered a crash and "You lose!" If the program is able to navigate to the finish line, land on the finish line and return a velocity of (0,0), then the program has successfully reached the goal and "You win!"
 
